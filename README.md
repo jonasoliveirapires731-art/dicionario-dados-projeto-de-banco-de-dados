@@ -7,8 +7,8 @@
 ---
 ### 󰞵 Sobre
 Atualmente cursando o [2 semestre da faculdadeº] de manha[ADS] na [UNICID CRUZEIRO DO SUL]. sou Jonas oliveira pires gosto bastante dessa area muito boa, amo aprender coisa novas, segundo ano da faculdade aprendendo desenvolvimento web, banco de dados, linguagens de programação, como python e C e sql, e design  profisssional, e muito curioso 
-
-
+#### 🗄 Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 tecnologia e possuo foco em [desenvolvimento full-stack e redes de computadores].
 * **Habilidades Técnicas:** html css js
