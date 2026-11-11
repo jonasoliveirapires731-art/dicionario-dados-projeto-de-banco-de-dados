@@ -6,7 +6,10 @@
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [2 semestre da faculdadeº] de manha[ADS] na [UNICID CRUZEIRO DO SUL]. Sou apaixonado por resolver problemas através da
+Atualmente cursando o [2 semestre da faculdadeº] de manha[ADS] na [UNICID CRUZEIRO DO SUL]. sou Jonas oliveira pires gosto bastante dessa area muito boa, amo aprender coisa novas, segundo ano da faculdade aprendendo desenvolvimento web, banco de dados, linguagens de programação e design  profisssional, e muito curioso 
+
+
+
 tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento
 Backend / Análise de Dados].
 * **Habilidades Técnicas:** html css js
